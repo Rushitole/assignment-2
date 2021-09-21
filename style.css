@@ -1,0 +1,40 @@
+.bore {
+  border: solid 5px #000;
+}
+article {
+  display: block;
+}
+.free {
+  color: grey;
+}
+
+h1 {
+  text-align: center;
+  font-size: 22px;
+  text-transform: uppercase;
+  background-color: grey;
+}
+p {
+  font-weight: bold;
+}
+.link {
+  color: #000;
+  text-decoration: underline;
+}
+.link:hover {
+  color: tomato;
+  cursor: pointer;
+}
+
+.cart {
+  background-color: #000;
+  border: none;
+  color: #fff;
+  font-size: 20px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.cart:hover {
+  color: #000;
+  background-color: #fff;
+}
